@@ -1,4 +1,4 @@
-# Image Based Text Text Classification Using OCR 
+# Image Based Text Classification Using OCR 
 
 It is a Streamlit web application that allows users to upload images containing text, extract the text using Tesseract OCR, perform spell-checking, sentiment analysis, and extract keywords from the extracted text.
 
