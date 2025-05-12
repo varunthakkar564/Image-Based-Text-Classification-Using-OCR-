@@ -1,6 +1,6 @@
-# Image2Text Analyzer
+# Image Based Text Text Classification Using OCR 
 
-Image2Text Analyzer is a Streamlit web application that allows users to upload images containing text, extract the text using Tesseract OCR, perform spell-checking, sentiment analysis, and extract keywords from the extracted text.
+It is a Streamlit web application that allows users to upload images containing text, extract the text using Tesseract OCR, perform spell-checking, sentiment analysis, and extract keywords from the extracted text.
 
 ## Features
 
@@ -17,8 +17,8 @@ Image2Text Analyzer is a Streamlit web application that allows users to upload i
 
 ## Installation
 
-1. Clone the repository: git clone 
-2. Navigate to the project directory: cd Image2Text-Analyzer
+1. Clone the repository: git clone https://github.com/varunthakkar564/Image-Based-Text-Classification-Using-OCR-
+2. Navigate to the project directory: cd Image-Based-Text-Classification-Using-OCR-
 3. Install dependencies: pip install -r requirements.txt
 
 ## Run
