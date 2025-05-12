@@ -1,14 +1,14 @@
-# Image2Text Analyzer Documentation
+# Image Based Text Classification Using OCR - Documentation
 
-Welcome to the documentation for Image2Text Analyzer! This document provides detailed information about the architecture, functionality, and usage of the Image2Text Analyzer application.
+Welcome to the documentation for Image Based Text Classification Using OCR! This document provides detailed information about the architecture, functionality, and usage of the Image Based Text Classification Using OCR project.
 
 ## Overview
 
-Image2Text Analyzer is a Streamlit web application designed to extract text from images, perform spell-checking, sentiment analysis, and extract keywords from the extracted text.
+Image Based Text Classification Using OCR is a Streamlit web application designed to extract text from images, perform spell-checking, sentiment analysis, and extract keywords from the extracted text.
 
 ## Architecture
 
-The Image2Text Analyzer application consists of the following components:
+It consists of the following components:
 
 1. **Frontend**: Developed using Streamlit, provides a user-friendly interface for uploading images and interacting with the application.
 2. **Backend**: Utilizes Python libraries such as pytesseract, TextBlob, and scikit-learn for text extraction, spell-checking, sentiment analysis, and keyword extraction.
@@ -20,21 +20,21 @@ The Image2Text Analyzer application consists of the following components:
 
 ### Installation
 
-To install Image2Text Analyzer, follow these steps:
+To install, follow these steps:
 
-1. Clone the repository: git clone 
-2. Navigate to the project directory: cd image2Text-analyzer
+1. Clone the repository: git clone https://github.com/varunthakkar564/Image-Based-Text-Classification-Using-OCR-
+2. Navigate to the project directory: cd Image-Based-Text-Classification-Using-OCR-
 3. Install dependencies: pip install -r requirements.txt
 
 
 ### Running the Application
 
-To run Image2Text Analyzer, execute the following command: streamlit run main.py
+To run, execute the following command: streamlit run main.py
 
 
 ## APIs and Interfaces
 
-The Image2Text Analyzer application exposes the following APIs and interfaces:
+The application exposes the following APIs and interfaces:
 
 - `extract_text(image)`: Extracts text from an image using Tesseract OCR.
 - `spell_check(text)`: Performs spell-checking on the extracted text.
