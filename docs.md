@@ -47,8 +47,8 @@ For detailed usage instructions and tutorials, refer to the [README.md](README.m
 
 ## FAQs and Troubleshooting
 
-If you encounter any issues or have questions about Image2Text Analyzer, please refer to the FAQs section in the [README.md](README.md) file.
+If you encounter any issues or have questions, please refer to the FAQs section in the [README.md](README.md) file.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to Image2Text Analyzer, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+We welcome contributions from the community! If you'd like to contribute to this industrial project, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
