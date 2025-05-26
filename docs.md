@@ -16,7 +16,7 @@ It consists of the following components:
 4. **TextBlob**: Used for sentiment analysis.
 5. **Other Libraries**: Various other libraries such as difflib, PIL, and re are used for text processing and manipulation.
 
-## Usage
+
 
 ### Installation
 
